@@ -1,9 +1,10 @@
 ### Hello World! 👋
 
-@@ -1,44 +1,43 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 <div align = "center">
+  
 <br/>
 <h3>Hello World! 🥳</h3><br/>
 Hello, I'm Junseo.<br/>
@@ -15,6 +16,6 @@ Have a nice day!
   
 https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/junx__o/
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
   
   
