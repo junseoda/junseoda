@@ -11,12 +11,13 @@ Hello, I'm Junseo.<br/>
 Have a nice day!
 <br/><br/>
 
-<h2>Contact</h2><br/>
-wnstj620@khu.ac.kr
+<h2>Contact</h2>
+- wnstj620@khu.ac.kr
+<br/>  
   
-<h2>Education<h2/><br/>
-KyungHee University, Computer Science Engineering
-  
+<h2>Education<h2/>
+- KyungHee University, Computer Science Engineering
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseoda&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
