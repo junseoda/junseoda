@@ -11,10 +11,10 @@ Hello, I'm Junseo.<br/>
 Have a nice day!
 <br/><br/>
 
-Contact<br/>
+<h2>Contact</h2><br/>
 wnstj620@khu.ac.kr
   
-Education<br/>
+<h2>Education<h2/><br/>
 KyungHee University, Computer Science Engineering
   
 
