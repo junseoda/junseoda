@@ -15,7 +15,7 @@ Have a nice day!
 
   
 <a href = "https://www.instagram.com/junx__o/"> 
-<img src = "http://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=#E4405F&link=https://www.instagram.com/junx__o/"></a>
+<img src = "http://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=#E4405F&link=https://www.instagram.com/junx__o/"></a>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
