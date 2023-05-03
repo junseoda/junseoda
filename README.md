@@ -15,7 +15,7 @@ Have a nice day!
 - wnstj620@khu.ac.kr
 <br/>  
   
-<h2>Education<h2/>
+<h2>Education</h2>
 - KyungHee University, Computer Science Engineering
 <br/>
 
