@@ -1,4 +1,4 @@
-# Jun Seo Park
+# Jun Seo Park / 박준서
 
 > Computer Engineering student building data-driven web services and recommendation systems.
 
@@ -11,11 +11,20 @@
 ![AI / Automation](https://img.shields.io/badge/AI%20%2F%20Automation-334155?style=flat)
 ![Blockchain / Web3](https://img.shields.io/badge/Blockchain%20%2F%20Web3-111827?style=flat)
 
+## Career Focus
+
+- Web Service Development
+- Recommendation System
+- Data-driven Product
+- Public Data
+- AI / Automation
+- Blockchain / Web3
+
 ## About Me
 
 - Kyung Hee University 컴퓨터공학 전공자로, 데이터를 활용해 실제 문제를 서비스로 구현하는 데 관심이 있습니다.
 - 추천시스템, 공공데이터 전처리, 웹서비스, 자동화, 블록체인/Web3 프로젝트를 경험했습니다.
-- 문제 정의와 데이터 구성부터 API, UI, 평가 지표, 문서화까지 연결하는 개발 흐름을 중요하게 생각합니다.
+- 기획, 데이터 분석, 개발, 검증, 문서화까지 연결하는 개발 흐름을 중요하게 생각합니다.
 - 학생회장, 선거 캠프, 국회의원실 경험을 통해 현장 문제를 정리하고 이해관계자와 소통하는 역량을 쌓았습니다.
 
 ## Featured Projects
@@ -31,7 +40,7 @@
 | Experience | Highlights |
 | --- | --- |
 | Student Council President<br/>Kyung Hee University College of Software | 약 1,300명 규모 단과대학 학생회 대표로 활동하며 행사 기획, 조직 운영, 커뮤니케이션, 문제 해결을 경험했습니다. 개발자 프로필에서는 리더십보다 실행력과 협업 경험으로 연결해 보고 있습니다. |
-| Public Sector & Policy Research | 대통령 선거 캠프와 국회의원실 대학생 보좌관 경험을 통해 데이터 정리, 지역 분석, 정책 리서치, 보고서 작성, 현장 중심 커뮤니케이션을 경험했습니다. 정치적 주장보다 public sector data와 문제 정의 경험으로 정리하고 있습니다. |
+| Public Sector / Policy Research Experience | 대통령 선거 캠프와 국회의원실 대학생 보좌관 경험을 통해 데이터 정리, 지역 분석, 정책 리서치, 보고서 작성, 현장 중심 커뮤니케이션을 경험했습니다. 정치적 주장보다 public sector data와 문제 정의 경험으로 정리하고 있습니다. |
 | Graduation Project | 공공데이터 기반 추천시스템을 실제 웹서비스로 구현했습니다. 문제 정의, 데이터 구성, 추천 로직, 평가 지표, 배포, 문서화를 하나의 프로젝트 흐름으로 연결했습니다. |
 
 ## Tech Stack
